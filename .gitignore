@@ -3,3 +3,4 @@
 *.db
 microblog.egg-info/
 __pycache__/
+.vscode/
