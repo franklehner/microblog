@@ -18,6 +18,7 @@ setup(
         "flask-migrate",
         "flask-sqlalchemy",
         "wtforms",
+        "werkzeug",
     ],
     test_requires=[
         "pytest",
