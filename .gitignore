@@ -1,6 +1,7 @@
 .gitignore
 *.pyc
 *.db
+*.sh
 microblog.egg-info/
 __pycache__/
 .vscode/

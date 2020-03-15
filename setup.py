@@ -17,8 +17,10 @@ setup(
         "flask-login",
         "flask-migrate",
         "flask-sqlalchemy",
+        "flask-mail",
         "wtforms",
         "werkzeug",
+        "pyjwt",
     ],
     test_requires=[
         "pytest",
