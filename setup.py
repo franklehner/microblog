@@ -13,6 +13,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "flask",
+        "flask-bootstrap",
         "flask-wtf",
         "flask-login",
         "flask-migrate",
